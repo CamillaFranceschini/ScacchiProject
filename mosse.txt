@@ -1,0 +1,114 @@
+Alessia D'Aniello 285143
+Camilla Franceschini 282280
+bishop - white - b8
+a7
+knight - white - c7
+e8
+e6
+d5
+a8
+queen - white - d7
+e8
+e6
+*P-f5
+c6
+c8
+d8
+e7
+f7
+g7
+h7
+d6
+d5
+d4
+d3
+pawn - white - a6
+a7
+pawn - black - g6
+no move
+king - white - a5
+b6
+b4
+a4
+rook - white - b5
+b6
+b7
+c5
+d5
+b4
+b3
+*P-b2
+pawn - white - e5
+e6
+pawn - black - f5
+no move
+pawn - white - g5
+no move
+bishop - black - c4
+d5
+e6
+f7
+g8
+d3
+e2
+*b-f1
+b3
+a2
+*r-b5
+queen - black - e4
+*p-f3
+d3
+c2
+*b-b1
+d5
+c6
+b7
+a8
+*p-e5
+e3
+e2
+*b-e1
+d4
+king - black - f4
+g4
+e3
+pawn - white - f3
+*Q-e4
+rook - white - g3
+g4
+g2
+pawn - white - h3
+h4
+pawn - black - b2
+*b-c1
+pawn - white - d2
+d3
+knight - white - f2
+g4
+d3
+*Q-e4
+pawn - white - h2
+no move
+bishop - white - b1
+c2
+d3
+*Q-e4
+a2
+bishop - white - c1
+*P-b2
+bishop - white - d1
+e2
+c2
+b3
+a4
+bishop - white - e1
+no move
+bishop - white - f1
+g2
+e2
+d3
+*B-c4
+bishop - white - g1
+no move
+bishop - white - h1
+g2
